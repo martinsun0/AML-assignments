@@ -128,3 +128,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Final data files
+Final/descriptions_test
+Final/descriptions_train
+Final/features_test
+Final/features_train
+Final/images_test
+Final/images_train
+Final/tags_test
+Final/tags_train
+
